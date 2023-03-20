@@ -67,7 +67,7 @@
 5.
    * Expand the network with another ``PC3`` computer according to the diagram.
    
-![task 3](network-3.2.png)
+![task 3](sieci-3.2.png)
 
 6. 
    * On the ``PC3`` computer create an index.html file in the ``/var/www`` directory.
